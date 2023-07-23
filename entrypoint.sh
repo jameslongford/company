@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
 # 设置各变量
-UUID='de04add9-5c68-8bab-950c-08cd5320df18'
-VMESS_WSPATH='/vmess'
-VLESS_WSPATH='/vless'
-TROJAN_WSPATH='/trojan'
-SS_WSPATH='/shadowsocks'
+UUID='02407fc1-7e73-4c33-8401-4f561d1f6c3b'
+VMESS_WSPATH='/old77'
+VLESS_WSPATH='/new88'
+TROJAN_WSPATH='/best99'
+SS_WSPATH='/mysayeh100'
 NEZHA_SERVER="probe.nezha.org"
 NEZHA_PORT=5555
 NEZHA_KEY="p2RYaBPrCEiFro7W0Y"
